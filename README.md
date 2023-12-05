@@ -74,8 +74,7 @@ interface ProductResponse {
 
 # Commands
 
-- For development purposes, run: `npm run dev`
-- To build the project, use: `npm run build`
-- For linting, run: `npm run lint`
-- To start the application, use: `npm run start`
-# nextjs-tailwind
+- For development purposes, run: `npm run dev`.
+- To build the project, use: `npm run build`.
+- For linting, run: `npm run lint`.
+- To start the application, use: `npm run start`.
